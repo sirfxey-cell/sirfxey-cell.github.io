@@ -1,0 +1,12 @@
+{
+  "relation": [
+    "delegate_permission/common.handle_all_urls"
+  ],
+  "target": {
+    "namespace": "android_app",
+    "sha256_cert_fingerprints": [
+      "C5:58:CC:34:CA:A7:38:C1:0F:5E:E2:A5:25:85:BE:51:BA:3A:46:43:3C:1A:2D:31:68:DD:69:D4:5A:56:88:00"
+    ],
+    "package_name": "io.github.sirfxeycell.subject09"
+  }
+}
